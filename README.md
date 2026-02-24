@@ -32,5 +32,5 @@ That script is the main entry point.
 
 ## Notes
 
-- The setup script does **not** hardcode monitor values in source; it reads them from the machine running it.
-- You can still launch WaW from normal CrossOver/Steam UI after setup.
+- The setup script reads monitor values from the machine running it.
+- You can launch WaW from normal CrossOver/Steam UI after running initial setup.
