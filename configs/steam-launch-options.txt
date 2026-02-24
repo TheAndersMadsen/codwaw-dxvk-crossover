@@ -1,0 +1,1 @@
++set com_introPlayed 1 +set com_startupIntroPlayed 1 +set ui_autoContinue 1 +exec autoexec.cfg

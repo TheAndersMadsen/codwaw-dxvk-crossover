@@ -1,0 +1,6 @@
+WINED3DMETAL=0
+WINEDXVK=1
+CX_GRAPHICS_BACKEND=dxvk
+DXVK_STATE_CACHE=1
+DXVK_STATE_CACHE_PATH=C:/Program Files (x86)/Steam/steamapps/shadercache/10090/DXVK_state_cache
+DXVK_LOG_LEVEL=warn
