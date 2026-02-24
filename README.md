@@ -1,4 +1,4 @@
-# Call of Duty - World at War - Crossover DXVK
+# cod-waw-crossover-dxvk
 
 Simple DXVK setup for **Call of Duty: World at War** on macOS via **CrossOver**.
 
