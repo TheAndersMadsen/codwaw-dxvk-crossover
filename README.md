@@ -7,7 +7,7 @@ Simple DXVK setup for **Call of Duty: World at War** on macOS via **CrossOver**.
 - Auto-detects your CrossOver bottle + WaW install path
 - Detects your active monitor resolution + refresh rate automatically
 - Applies fullscreen/high-Hz settings to SP + MP config files
-- Optionally patches `d3d9.dll` (interactive `y/n` prompt)
+- Patches `d3d9.dll` (interactive `y/n` prompt)
 - Writes DXVK config tuned to detected refresh rate
 - Removes the Safe Mode crash marker
 
