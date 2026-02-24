@@ -1,0 +1,28 @@
+<svg width="1600" height="320" viewBox="0 0 1600 320" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="cod-waw-crossover-dxvk">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1600" y2="320" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0E1118"/>
+      <stop offset="1" stop-color="#1A2333"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="220" y1="0" x2="1380" y2="320" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#2AC3FF"/>
+      <stop offset="1" stop-color="#A8FF5A"/>
+    </linearGradient>
+    <filter id="shadow" x="0" y="0" width="1600" height="320" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+      <feDropShadow dx="0" dy="8" stdDeviation="10" flood-color="#000" flood-opacity="0.4"/>
+    </filter>
+  </defs>
+
+  <rect width="1600" height="320" fill="url(#bg)" rx="18"/>
+  <rect x="40" y="40" width="1520" height="240" rx="14" stroke="#2E3C55" stroke-width="2" fill="none"/>
+
+  <g filter="url(#shadow)">
+    <text x="90" y="165" fill="url(#accent)" font-family="Menlo, Monaco, Consolas, 'Liberation Mono', monospace" font-size="62" font-weight="700" letter-spacing="1.2">
+      cod-waw-crossover-dxvk
+    </text>
+  </g>
+
+  <text x="94" y="212" fill="#C9D7E9" font-family="Menlo, Monaco, Consolas, 'Liberation Mono', monospace" font-size="24" font-weight="500">
+    Call of Duty: World at War on macOS via CrossOver + DXVK
+  </text>
+</svg>

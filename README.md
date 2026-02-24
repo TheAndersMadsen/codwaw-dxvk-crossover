@@ -1,4 +1,7 @@
-# cod-waw-crossover-dxvk
+<p align="center">
+  <img src="./assets/cod-waw-crossover-dxvk.svg" alt="cod-waw-crossover-dxvk" width="980" />
+</p>
+
 
 Simple DXVK setup for **Call of Duty: World at War** on macOS via **CrossOver**.
 
